@@ -10,6 +10,8 @@ En la tercer sección podrás agregar marcadores de lugar que se diferencíen po
 
 La cuarta sección está dedicada a la generación de "tarjetas" reutilizables, las cuales contienen mapas que parecieran ser imagenes fijas, pero realmente es porque la posición está establecida especificamente, dichas "tarjetas" pueden usarse por ejemplo para mostrar ubicaciones de propiedades.
 
+El menú flotante en la parte lateral izquierda es un "Alone Component", originalmente era un componente normal, pero se agregó ésta funcionalidad en la App.
+
 La App se conecta a la API de [MapBox](https://www.mapbox.com/) para su funcionamiento.
 
 Algunos de los conceptos utilizados para la generación de ésta App, son:
@@ -25,6 +27,7 @@ Algunos de los conceptos utilizados para la generación de ésta App, son:
 9. @types.
 10. Zoom.
 11. Range.
+12. Standalone Components
 
 Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) versión 16.1.1.
 
